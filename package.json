@@ -1,5 +1,5 @@
 {
-  "name": "gdax-trading-toolkit",
+  "name": "@headlight/gdax-trading-toolkit",
   "version": "0.3.1",
   "description": "A trading toolkit for building advanced trading bots on the GDAX platform",
   "main": "build/src/index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:coinbase/gdax-tt.git"
+    "url": "git@github.com:HeadlightStudios/gdax-tt.git"
   },
   "keywords": [
     "gdax",
@@ -32,7 +32,7 @@
     "market-maker",
     "arbitrage"
   ],
-  "author": "Cayle Sharrock <cayle@coinbase.com>",
+  "authors": ["Cayle Sharrock <cayle@coinbase.com>", "Headlight Studios"],
   "license": "Apache-2.0",
   "dependencies": {
     "@types/bintrees": "1.0.2",
@@ -49,7 +49,7 @@
     "bintrees": "1.0.1",
     "ccxt": "1.12.137",
     "commander": "2.9.0",
-    "gdax": "0.7.0",
+    "gdax": "0.8.0",
     "limiter": "1.1.2",
     "node-bittrex-api": "0.7.7",
     "pushbullet": "2.0.0",

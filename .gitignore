@@ -14,3 +14,4 @@ src/**/*.js
 coverage
 .DS_Store
 tutorials/*.js
+yarn.lock

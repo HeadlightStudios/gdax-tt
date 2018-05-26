@@ -1,5 +1,7 @@
 # GDAX Trading toolkit
 
+Forked from coinbase to current fix npm package bug
+
 [![CircleCI](https://circleci.com/gh/coinbase/gdax-tt.svg?style=svg)](https://circleci.com/gh/coinbase/gdax-tt)
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (VERSIONBADGE) -->
 [![npm](https://img.shields.io/badge/npm-v0.3.1-green.svg)](https://www.npmjs.com/package/gdax-trading-toolkit)
